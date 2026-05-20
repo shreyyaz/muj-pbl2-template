@@ -1,6 +1,6 @@
 # MUJ PBL-2 Presentation Template
 
-A clean and responsive presentation template designed for Project-Based Learning (PBL-2) submissions at Manipal University Jaipur. The project provides a modern HTML-based presentation interface along with supporting assets and presentation resources.
+A clean and responsive presentation template designed for Project-Based Learning (PBL-2) submissions at Manipal University Jaipur. The project provides a lightweight and customizable HTML based presentation interface for academic project submissions.
 
 ## Live Demo
 
@@ -41,13 +41,13 @@ https://docs.google.com/presentation/d/1QFZnXNyQ6PBP1-jbSOWB-kKwMzdET-fp/edit?us
 Clone the repository:
 
 ```bash
-git clone https://github.com/shreyyaz/pbl2-presentation-template.git
+git clone https://github.com/shreyyaz/muj-pbl2-template.git
 ```
 
 Open the project folder:
 
 ```bash
-cd pbl2-presentation-template
+cd muj-pbl2-template
 ```
 
 Run locally by opening:
